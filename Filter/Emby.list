@@ -2,7 +2,8 @@
 HOST,emby.dicarerhome.com,Emby
 HOST,emby-play.dicarerhome.com,direct
 #paul
-HOST-SUFFIX,imetyou.top,Emby
+HOST,emby.imetyou.top,Emby
+HOST,cf.imetyou.top,direct
 #TreeDiagram
 HOST-SUFFIX,123456.al,Emby
 #纸片人
