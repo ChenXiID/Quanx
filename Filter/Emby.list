@@ -1,6 +1,6 @@
 #gugu
 HOST,emby.dicarerhome.com,Emby
-HOST,emby-play.dicarerhome.com,direct
+#HOST,emby-play.dicarerhome.com,direct
 #paul
 HOST,emby.imetyou.top,Emby
 HOST,cf.imetyou.top,direct
