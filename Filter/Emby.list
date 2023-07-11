@@ -1,5 +1,7 @@
 #cc
 HOST,cc.ccemby.tk,Emby
+HOST,lt2.carryz.net,Emby
+ip-cidr,129.150.48.48/32, Emby
 #gugu
 HOST,emby.dicarerhome.com,Emby
 HOST,emby-play.dicarerhome.com,direct
