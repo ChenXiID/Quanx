@@ -2,6 +2,10 @@
 HOST,cc.ccemby.tk,Emby
 HOST-SUFFIX,carryz.net,Emby
 ip-cidr,129.150.48.48/32, Emby
+#Peach
+HOST-SUFFIX,embymv.tk,Emby
+HOST,kr.embymv.tk,Emby
+HOST,jp.embymv.tk,Emby
 #gugu
 HOST,emby.dicarerhome.com,Emby
 HOST,emby-play.dicarerhome.com,direct
