@@ -50,3 +50,12 @@ HOST,4837.emby.ml,Emby
 HOST,kr.xmsl.org,Emby
 HOST,shs.xmsl.org,Emby
 HOST,nl.xmsl.org,Emby
+#Marmot
+HOST,v.20120714.xyz,Emby
+HOST,xl.studyfun.live,Emby
+#Misty
+HOST-SUFFIX,misty.ltd,Emby
+#NME
+HOST,film.goodisp.org,Emby
+#星光
+HOST-SUFFIX,emby.eu.org,Emby
