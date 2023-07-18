@@ -38,8 +38,8 @@ HOST,go.catlink.eu.org,Emby
 HOST,jz.mcjoker.xyz,Emby
 HOST,emby3.mcjoker.xyz,proxy
 #tank
-HOST,tank66.top,Emby
-HOST,tank88.top,Emby
+HOST-SUFFIX,tank66.top,Emby
+HOST-SUFFIX,tank88.top,Emby
 #垃圾影音
 HOST,cfde.xmsl.org,Emby
 HOST,de.xmsl.org,Emby
