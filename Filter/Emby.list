@@ -21,7 +21,7 @@ HOST-SUFFIX,embyplus.org,Emby
 #pilipili
 HOST-SUFFIX,emby77.org,Emby
 #StarCat
-HOST,starcat.eu.org,Emby
+HOST-SUFFIX,starcat.eu.org,Emby
 #EMBY会员餐厅
 HOST-SUFFIX,mius.uk,Emby
 #卡戎
