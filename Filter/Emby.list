@@ -8,9 +8,9 @@ HOST,kr.embymv.tk,Emby
 HOST,jp.embymv.tk,Emby
 #gugu
 HOST,emby.dicarerhome.com,Emby
-HOST,emby-play.dicarerhome.com,direct
+HOST,emby-play.dicarerhome.com,Emby
 #Nirvana
-HOST,emby.lucasmedia.top,direct
+HOST,emby.lucasmedia.top,Emby
 #paul
 HOST,emby.imetyou.top,Emby
 HOST,cf.imetyou.top,Emby
@@ -20,6 +20,8 @@ HOST-SUFFIX,123456.al,Emby
 HOST-SUFFIX,embyplus.org,Emby
 #pilipili
 HOST-SUFFIX,emby77.org,Emby
+#StarCat
+HOST,starcat.eu.org,Emby
 #EMBY会员餐厅
 HOST-SUFFIX,mius.uk,Emby
 #卡戎
