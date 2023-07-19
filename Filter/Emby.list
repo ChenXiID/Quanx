@@ -62,3 +62,5 @@ HOST,film.goodisp.org,Emby
 HOST-SUFFIX,emby.eu.org,Emby
 #MJJ
 HOST-SUFFIX,mjjemby.org,Emby
+#魔法
+HOST-SUFFIX,freetz.top,Emby
