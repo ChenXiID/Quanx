@@ -43,14 +43,9 @@ HOST,emby3.mcjoker.xyz,proxy
 HOST-SUFFIX,tank66.top,Emby
 HOST-SUFFIX,tank88.top,Emby
 #垃圾影音
-HOST,cf.emby.ml,Emby
-HOST,cfde.xmsl.org,Emby
-HOST,de.xmsl.org,Emby
+HOST-SUFFIX,emby.ml,Emby
+HOST-SUFFIX,xmsl.org,Emby
 HOST,1.loseremby.org,Emby
-HOST,4837.emby.ml,Emby
-HOST,kr.xmsl.org,Emby
-HOST,shs.xmsl.org,Emby
-HOST,nl.xmsl.org,Emby
 #Marmot
 HOST,v.20120714.xyz,Emby
 HOST,xl.studyfun.live,Emby
