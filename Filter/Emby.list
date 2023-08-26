@@ -71,3 +71,7 @@ HOST-SUFFIX,lincent.org,Emby
 HOST-SUFFIX,jmsooo.com,Emby
 #剧狗
 HOST-SUFFIX,ju.dog,Emby
+#梓澪
+HOST-SUFFIX,zi0.icu,Emby
+#黑格
+ip-cidr,150.230.233.218/32, Emby
