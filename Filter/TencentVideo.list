@@ -5,4 +5,7 @@ HOST, info6.video.qq.com, REJECT
 HOST, ios.video.mpush.qq.com, REJECT
 HOST, mtrace.qq.com, REJECT
 HOST, pgdt.gtimg.cn, REJECT
-
+HOST, adsmind.gdtimg.com, reject
+HOST, ilce.alicdn.com, reject
+HOST, vip.image.video.qpic.cn, reject
+HOST, ovg.gtimg.cn, reject
