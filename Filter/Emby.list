@@ -25,10 +25,8 @@ HOST-SUFFIX,starcat.eu.org,Emby
 HOST-SUFFIX,mius.uk,Emby
 #卡戎
 HOST,play.charontv.com,Emby
-#Infinityfly 联通电信
-HOST,vx.infinityfly.top,Emby
-#Infinityfly 移动
-HOST,cf.infinityfly.top,Emby
+#Infinityfly 
+HOST-SUFFIX,infinityfly.top,Emby
 #私人影院
 HOST,emby.agon.cf,Emby
 #hxd
