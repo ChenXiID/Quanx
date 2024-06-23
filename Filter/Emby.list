@@ -9,7 +9,8 @@ HOST-SUFFIX,embymv.tk,Emby
 HOST,kr.embymv.tk,Emby
 HOST,jp.embymv.tk,Emby
 #gugu
-HOST-KEYWORD,gugu,Emby
+HOST-SUFFIX,gugumedia.site,Emby
+HOST-SUFFIX,gugu.media,Emby
 #Nirvana
 HOST,emby.lucasmedia.top,Emby
 #paul
