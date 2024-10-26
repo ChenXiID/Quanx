@@ -12,6 +12,9 @@ HOST,jp.embymv.tk,Emby
 HOST-SUFFIX,gugumedia.site,Emby
 HOST-SUFFIX,gugu.media,Emby
 HOST-SUFFIX,guguemby.site,Emby
+#MisakaF
+HOST-SUFFIX,aca.best,Emby
+HOST-SUFFIX,misakaf.org,Emby
 #Nirvana
 HOST,emby.lucasmedia.top,Emby
 #paul
